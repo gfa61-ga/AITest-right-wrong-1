@@ -72,7 +72,7 @@ submitBtn.onclick = () => {
       correctInfo = '—';
     } else {
       isCorrect = (userAnswer === correctAnswer);
-      userAnswerText = userAnswer ? 'Σωστό' : 'Λάθος';
+      userAnswerText = userAnswer ? 'Σωστή' : 'Λάθος';
 
       if (isCorrect) {
         resultClass = 'correct';
@@ -80,7 +80,7 @@ submitBtn.onclick = () => {
         score++;
       } else {
         resultClass = 'incorrect';
-        const correctAnswerText = correctAnswer ? 'Σωστό' : 'Λάθος';
+        const correctAnswerText = correctAnswer ? 'Σωστή' : 'Λάθος';
         correctInfo = q.right_answer ? `<strong>${correctAnswerText}</strong><br><em>${q.right_answer}</em>` : `<strong>${correctAnswerText}</strong>`;
       }
     }
