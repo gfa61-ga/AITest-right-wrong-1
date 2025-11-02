@@ -49,7 +49,7 @@ function updateProgress() {
 submitBtn.onclick = () => {
   let score = 0;
   let html = '<h2>📊 Αποτελέσματα</h2>';
-  html += '<table><thead><tr><th>#</th><th>Ερώτηση</th><th>Η Απάντησή σας</th><th>Σωστή Απάντηση</th></tr></thead><tbody>';
+  html += '<table><thead><tr><th>#</th><th>Ερώτηση</th><th>Η Απάντησή σας ήταν</th><th>Σωστή Απάντηση</th></tr></thead><tbody>';
 
   questions.forEach((q, i) => {
     const selected = document.querySelector(`input[name='q${i}']:checked`);
