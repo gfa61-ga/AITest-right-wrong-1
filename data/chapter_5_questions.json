@@ -1,0 +1,215 @@
+[
+  {
+    "question": "Η Εποπτευόμενη Μάθηση χρησιμοποιεί επισημασμένα δεδομένα για εκπαίδευση.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η Μη Εποπτευόμενη Μάθηση απαιτεί πάντα επισημασμένα δεδομένα.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Η Μη Εποπτευόμενη Μάθηση δεν χρησιμοποιεί επισημασμένα δεδομένα."
+  },
+  {
+    "question": "Τα Decision Trees χρησιμοποιούνται μόνο για ταξινόμηση.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Τα Decision Trees χρησιμοποιούνται για ταξινόμηση και παλινδρόμηση."
+  },
+  {
+    "question": "Οι Support Vector Machines (SVMs) χρησιμοποιούνται μόνο για clustering.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Οι SVMs χρησιμοποιούνται για ταξινόμηση και παλινδρόμηση, όχι clustering."
+  },
+  {
+    "question": "Το Overfitting συμβαίνει όταν ένα μοντέλο μαθαίνει πολύ καλά τα δεδομένα εκπαίδευσης αλλά αποτυγχάνει σε νέα δεδομένα.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Underfitting συμβαίνει όταν ένα μοντέλο είναι πολύ πολύπλοκο.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το Underfitting συμβαίνει όταν ένα μοντέλο είναι πολύ απλό για να αποτυπώσει τα πρότυπα των δεδομένων."
+  },
+  {
+    "question": "Η Cross-Validation χρησιμοποιείται για την αξιολόγηση της απόδοσης ενός μοντέλου.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Mean Squared Error (MSE) χρησιμοποιείται μόνο για ταξινόμηση.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το MSE χρησιμοποιείται για προβλήματα παλινδρόμησης, όχι ταξινόμησης."
+  },
+  {
+    "question": "Το F1 Score συνδυάζει precision και recall.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η Κανονικοποίηση (Normalization) μετασχηματίζει δεδομένα σε κοινή κλίμακα.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η Αυγητική Δεδομένων (Data Augmentation) δημιουργεί παραλλαγές υπαρχόντων δεδομένων.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το K-Means είναι αλγόριθμος εποπτευόμενης μάθησης.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το K-Means είναι αλγόριθμος μη εποπτευόμενης μάθησης για clustering."
+  },
+  {
+    "question": "Το Hierarchical Clustering δημιουργεί δενδροειδή δομή clusters.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το DBSCAN είναι αλγόριθμος clustering βασισμένος σε πυκνότητα.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Principal Component Analysis (PCA) μειώνει τη διαστατικότητα δεδομένων.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η t-SNE χρησιμοποιείται για οπτικοποίηση υψηλοδιάστατων δεδομένων.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Random Forest είναι ensemble method που χρησιμοποιεί πολλά decision trees.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Gradient Boosting δεν βελτιώνει την απόδοση μοντέλων.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το Gradient Boosting βελτιώνει την απόδοση συνδυάζοντας αδύναμους ταξινομητές."
+  },
+  {
+    "question": "Το XGBoost είναι βελτιστοποιημένη υλοποίηση του Gradient Boosting.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η Linear Regression προβλέπει συνεχείς τιμές.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η Logistic Regression χρησιμοποιείται για προβλήματα ταξινόμησης.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το K-Nearest Neighbors (KNN) δεν χρειάζεται εκπαίδευση.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Regularization ενισχύει το overfitting.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το Regularization αποτρέπει το overfitting."
+  },
+  {
+    "question": "Το L1 Regularization προσθέτει την απόλυτη τιμή των βαρών στη συνάρτηση κόστους.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το L2 Regularization προσθέτει την απόλυτη τιμή των βαρών.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το L2 Regularization προσθέτει το τετράγωνο των βαρών στη συνάρτηση κόστους."
+  },
+  {
+    "question": "Η Confusion Matrix οπτικοποιεί την απόδοση ταξινομητή.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η ROC Curve απεικονίζει τη σχέση True Positive Rate και False Positive Rate.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το AUC (Area Under Curve) μετρά την απόδοση ταξινομητή.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Hyperparameter Tuning δεν βελτιστοποιεί τις παραμέτρους.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το Hyperparameter Tuning βελτιστοποιεί τις παραμέτρους του μοντέλου."
+  },
+  {
+    "question": "Η Grid Search εξετάζει όλους τους συνδυασμούς hyperparameters.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η Random Search επιλέγει τυχαία hyperparameters για δοκιμή.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Bayesian Optimization χρησιμοποιεί probabilistic models για hyperparameter tuning.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η Feature Selection επιλέγει τα πιο σημαντικά χαρακτηριστικά.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Recursive Feature Elimination αφαιρεί επαναληπτικά λιγότερο σημαντικά χαρακτηριστικά.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η GPU επιταχύνει την εκπαίδευση μοντέλων.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Η TPU δεν σχεδιάστηκε για μηχανική μάθηση.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Η TPU (Tensor Processing Unit) σχεδιάστηκε ειδικά για μηχανική μάθηση."
+  },
+  {
+    "question": "Το Distributed Training εκπαιδεύει μοντέλα σε πολλαπλούς επεξεργαστές.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Data Parallelism συγκεντρώνει όλα τα δεδομένα σε έναν επεξεργαστή.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το Data Parallelism διανέμει δεδομένα σε πολλαπλούς επεξεργαστές."
+  },
+  {
+    "question": "Το Model Parallelism διανέμει το μοντέλο σε πολλαπλούς επεξεργαστές.",
+    "answer": true,
+    "chapter_number": 5
+  },
+  {
+    "question": "Το Mixed Precision Training χρησιμοποιεί μόνο μία ακρίβεια αριθμών.",
+    "answer": false,
+    "chapter_number": 5,
+    "right_answer": "Το Mixed Precision Training χρησιμοποιεί διαφορετικές ακρίβειες αριθμών."
+  }
+]

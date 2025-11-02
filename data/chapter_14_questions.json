@@ -1,0 +1,160 @@
+[
+  {
+    "question": "Η Γενική Τεχνητή Νοημοσύνη (AGI) στοχεύει σε ικανότητες ισοδύναμες με ανθρώπινη νοημοσύνη.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η AGI έχει ήδη επιτευχθεί.",
+    "answer": false,
+    "chapter_number": 14,
+    "right_answer": "Η AGI δεν έχει ακόμα επιτευχθεί και παραμένει ερευνητικός στόχος."
+  },
+  {
+    "question": "Η Narrow AI (Weak AI) εξειδικεύεται σε συγκεκριμένες εργασίες.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Super Intelligence αναφέρεται σε ΤΝ που υπερβαίνει την ανθρώπινη νοημοσύνη.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Το Quantum Computing δεν μπορεί να επιταχύνει υπολογισμούς ΤΝ.",
+    "answer": false,
+    "chapter_number": 14,
+    "right_answer": "Το Quantum Computing μπορεί να επιταχύνει σημαντικά υπολογισμούς ΤΝ."
+  },
+  {
+    "question": "Τα Quantum Neural Networks συνδυάζουν quantum computing και ΤΝ.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Neuromorphic Computing μιμείται τον ανθρώπινο εγκέφαλο.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Τα Spiking Neural Networks δεν μιμούνται βιολογικούς νευρώνες.",
+    "answer": false,
+    "chapter_number": 14,
+    "right_answer": "Τα Spiking Neural Networks μιμούνται τη λειτουργία βιολογικών νευρώνων."
+  },
+  {
+    "question": "Η Explainable AI θα γίνει πιο σημαντική στο μέλλον.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η AutoML αυτοματοποιεί τη διαδικασία ανάπτυξης μοντέλων.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Το Neural Architecture Search δεν αναζητά βέλτιστες αρχιτεκτονικές.",
+    "answer": false,
+    "chapter_number": 14,
+    "right_answer": "Το Neural Architecture Search αναζητά βέλτιστες αρχιτεκτονικές αυτόματα."
+  },
+  {
+    "question": "Η Federated Learning θα επιτρέψει πιο ιδιωτική εκπαίδευση μοντέλων.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Τα Foundation Models είναι μεγάλα προεκπαιδευμένα μοντέλα.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Multi-modal AI ενοποιεί διαφορετικούς τύπους δεδομένων.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η ΤΝ δεν θα επηρεάσει την εργασία στο μέλλον.",
+    "answer": false,
+    "chapter_number": 14,
+    "right_answer": "Η ΤΝ θα επηρεάσει σημαντικά την εργασία αυτοματοποιώντας και δημιουργώντας νέες θέσεις."
+  },
+  {
+    "question": "Τα Autonomous Systems θα γίνουν πιο διαδεδομένα.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η ΤΝ θα βοηθήσει στην αντιμετώπιση κλιματικής αλλαγής.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Personalized Medicine θα χρησιμοποιεί ΤΝ για εξατομικευμένες θεραπείες.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Τα Brain-Computer Interfaces δεν θα συνδέουν εγκέφαλο με υπολογιστές.",
+    "answer": false,
+    "chapter_number": 14,
+    "right_answer": "Τα Brain-Computer Interfaces θα συνδέουν τον εγκέφαλο με υπολογιστές."
+  },
+  {
+    "question": "Η Αυξημένη Πραγματικότητα θα ενσωματώσει ΤΝ για καλύτερες εμπειρίες.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Εικονική Πραγματικότητα δεν θα χρησιμοποιήσει ΤΝ.",
+    "answer": false,
+    "chapter_number": 14,
+    "right_answer": "Η Εικονική Πραγματικότητα θα χρησιμοποιεί ΤΝ για ρεαλιστικές προσομοιώσεις."
+  },
+  {
+    "question": "Τα Ηθικά πλαίσια για ΤΝ θα γίνουν πιο σημαντικά.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η ΤΝ θα χρησιμοποιηθεί στην εξερεύνηση διαστήματος.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Τα Collaborative Robots (Cobots) θα εργάζονται πλάι στους ανθρώπους.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Edge AI θα επεξεργάζεται δεδομένα τοπικά σε συσκευές.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η ΤΝ δεν θα χρησιμοποιηθεί για δημιουργική τέχνη.",
+    "answer": false,
+    "chapter_number": 14,
+    "right_answer": "Η ΤΝ χρησιμοποιείται ήδη και θα συνεχίσει να χρησιμοποιείται για δημιουργική τέχνη."
+  },
+  {
+    "question": "Τα Regulatory Frameworks θα ρυθμίζουν την ανάπτυξη ΤΝ.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Continual Learning θα επιτρέψει σε μοντέλα να μαθαίνουν συνεχώς.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Transfer Learning θα γίνει πιο προηγμένη.",
+    "answer": true,
+    "chapter_number": 14
+  },
+  {
+    "question": "Η Συνεργασία ανθρώπου-ΤΝ θα είναι κλειδί για το μέλλον.",
+    "answer": true,
+    "chapter_number": 14
+  }
+]

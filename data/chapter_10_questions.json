@@ -1,0 +1,164 @@
+[
+  {
+    "question": "Η Αλγοριθμική Μεροληψία μπορεί να προκαλέσει άδικες διακρίσεις.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Τα συστήματα ΤΝ είναι πάντα αντικειμενικά και αμερόληπτα.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Τα συστήματα ΤΝ μπορεί να έχουν μεροληψίες από τα δεδομένα εκπαίδευσης."
+  },
+  {
+    "question": "Η Διαφάνεια στην ΤΝ αναφέρεται στην κατανόηση του τρόπου λειτουργίας των μοντέλων.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Τα Black Box μοντέλα είναι πλήρως κατανοητά.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Τα Black Box μοντέλα είναι δύσκολο να κατανοηθούν."
+  },
+  {
+    "question": "Η Explainable AI (XAI) στοχεύει στη δημιουργία κατανοητών μοντέλων.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Το GDPR είναι ευρωπαϊκός κανονισμός για προστασία δεδομένων.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η προστασία προσωπικών δεδομένων δεν είναι σημαντική στην ΤΝ.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Η προστασία προσωπικών δεδομένων είναι κρίσιμη στην ΤΝ."
+  },
+  {
+    "question": "Η Ευθύνη για αποφάσεις ΤΝ πρέπει να είναι σαφής.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Τα αυτόνομα οχήματα δεν εγείρουν ηθικά διλήμματα.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Τα αυτόνομα οχήματα εγείρουν σημαντικά ηθικά διλήμματα."
+  },
+  {
+    "question": "Η Fairness στην ΤΝ αναφέρεται σε δίκαιη μεταχείριση όλων των ομάδων.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Ο Αυτοματισμός δεν επηρεάζει την απασχόληση.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Ο Αυτοματισμός μπορεί να επηρεάσει την απασχόληση αντικαθιστώντας ορισμένες θέσεις εργασίας."
+  },
+  {
+    "question": "Η Τεχνητή Νοημοσύνη πρέπει να σέβεται τα ανθρώπινα δικαιώματα.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η Differential Privacy προστατεύει την ιδιωτικότητα προσθέτοντας θόρυβο στα δεδομένα.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η Federated Learning δεν προστατεύει την ιδιωτικότητα.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Η Federated Learning εκπαιδεύει μοντέλα χωρίς να μοιράζεται ευαίσθητα δεδομένα."
+  },
+  {
+    "question": "Η Ανθρωποκεντρική ΤΝ θέτει τον άνθρωπο στο κέντρο του σχεδιασμού.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η AI Ethics δεν είναι σημαντική για την ανάπτυξη ΤΝ.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Η AI Ethics είναι κρίσιμη για υπεύθυνη ανάπτυξη ΤΝ."
+  },
+  {
+    "question": "Η Algorithmic Accountability απαιτεί ευθύνη για αποφάσεις αλγορίθμων.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η Bias Mitigation στοχεύει στη μείωση μεροληψιών σε μοντέλα ΤΝ.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Τα Deepfakes δεν εγείρουν ηθικές ανησυχίες.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Τα Deepfakes εγείρουν σοβαρές ηθικές ανησυχίες για παραπληροφόρηση."
+  },
+  {
+    "question": "Η Τεχνητή Νοημοσύνη μπορεί να χρησιμοποιηθεί για κακόβουλους σκοπούς.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η Ασφάλεια των συστημάτων ΤΝ δεν είναι σημαντική.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Η Ασφάλεια των συστημάτων ΤΝ είναι κρίσιμη για αποφυγή επιθέσεων."
+  },
+  {
+    "question": "Τα Adversarial Attacks μπορούν να παραπλανήσουν μοντέλα ΤΝ.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η Robust AI αντέχει σε επιθέσεις και διαταραχές.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η Diversity στις ομάδες ανάπτυξης ΤΝ δεν επηρεάζει τα αποτελέσματα.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Η Diversity βοηθά στη μείωση μεροληψιών και βελτιώνει τα προϊόντα ΤΝ."
+  },
+  {
+    "question": "Η Τεχνητή Νοημοσύνη πρέπει να είναι συμβατή με κοινωνικές αξίες.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Το Right to Explanation επιτρέπει στους χρήστες να κατανοούν αποφάσεις ΤΝ.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η Surveillance με ΤΝ δεν εγείρει ανησυχίες για ιδιωτικότητα.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Η Surveillance με ΤΝ εγείρει σοβαρές ανησυχίες για την ιδιωτικότητα."
+  },
+  {
+    "question": "Τα ηθικά πλαίσια βοηθούν στον υπεύθυνο σχεδιασμό ΤΝ.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η Sustainability στην ΤΝ αναφέρεται στη μείωση περιβαλλοντικού αποτυπώματος.",
+    "answer": true,
+    "chapter_number": 10
+  },
+  {
+    "question": "Η ενεργειακή κατανάλωση των μοντέλων Deep Learning δεν είναι πρόβλημα.",
+    "answer": false,
+    "chapter_number": 10,
+    "right_answer": "Τα μεγάλα μοντέλα Deep Learning καταναλώνουν σημαντική ενέργεια."
+  }
+]

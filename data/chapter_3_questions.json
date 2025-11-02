@@ -1,0 +1,188 @@
+[
+  {
+    "question": "Τα δομημένα δεδομένα αποθηκεύονται σε καθορισμένα σχήματα όπως πίνακες και βάσεις δεδομένων.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Τα ημι-δομημένα δεδομένα έχουν αυστηρή δομή όπως οι σχεσιακές βάσεις.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Τα ημι-δομημένα δεδομένα έχουν κάποια δομή αλλά όχι αυστηρή."
+  },
+  {
+    "question": "Τα αδόμητα δεδομένα αποτελούν το 80-90% του συνόλου των δεδομένων στον κόσμο.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το JSON και XML είναι παραδείγματα δομημένων δεδομένων.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Το JSON και XML είναι παραδείγματα ημι-δομημένων δεδομένων."
+  },
+  {
+    "question": "Η Διακυβέρνηση Δεδομένων περιλαμβάνει πολιτικές για τη διαχείριση, ποιότητα και ασφάλεια δεδομένων.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Data Quality δεν σχετίζεται με την ακρίβεια δεδομένων.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Η Data Quality αναφέρεται στην ακρίβεια και πληρότητα δεδομένων."
+  },
+  {
+    "question": "Το Data Lineage παρακολουθεί την προέλευση και μεταμόρφωση δεδομένων.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Predictive Analytics χρησιμοποιεί ιστορικά δεδομένα για πρόβλεψη μελλοντικών γεγονότων.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Prescriptive Analytics μόνο περιγράφει τι συνέβη στο παρελθόν.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Η Prescriptive Analytics προτείνει ενέργειες με βάση προβλέψεις."
+  },
+  {
+    "question": "Η Descriptive Analytics περιγράφει τι έχει συμβεί στο παρελθόν.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Mining εξάγει χρήσιμα πρότυπα από μεγάλα σύνολα δεδομένων.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το ETL σημαίνει Export, Transfer, Load.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Το ETL σημαίνει Extract, Transform, Load."
+  },
+  {
+    "question": "Η Data Cleaning αφαιρεί ανακρίβειες και ασυνέπειες από δεδομένα.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Preprocessing δεν είναι σημαντικό για τη μηχανική μάθηση.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Το Data Preprocessing είναι κρίσιμο για την ποιότητα των μοντέλων μηχανικής μάθησης."
+  },
+  {
+    "question": "Η Feature Engineering δημιουργεί νέα χαρακτηριστικά από υπάρχοντα δεδομένα.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Labeling είναι η διαδικασία επισήμανσης δεδομένων για εποπτευόμενη μάθηση.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Τα Metadata είναι δεδομένα που περιγράφουν άλλα δεδομένα.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Catalog δεν βοηθά στην οργάνωση δεδομένων.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Το Data Catalog είναι κατάλογος που βοηθά στην οργάνωση και εύρεση δεδομένων."
+  },
+  {
+    "question": "Η Data Integration συνδυάζει δεδομένα από πολλαπλές πηγές.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Enrichment προσθέτει πρόσθετες πληροφορίες σε υπάρχοντα δεδομένα.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Data Privacy αφορά μόνο την αποθήκευση δεδομένων.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Η Data Privacy αφορά την προστασία προσωπικών δεδομένων σε όλα τα στάδια του κύκλου ζωής τους."
+  },
+  {
+    "question": "Το Data Masking κρύβει ευαίσθητα δεδομένα.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Data Retention Policy καθορίζει πόσο καιρό διατηρούνται τα δεδομένα.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Profiling δεν αναλύει τα χαρακτηριστικά των δεδομένων.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Το Data Profiling αναλύει και κατανοεί τα χαρακτηριστικά των δεδομένων."
+  },
+  {
+    "question": "Η Data Virtualization παρέχει ενοποιημένη πρόσβαση σε δεδομένα χωρίς φυσική ενοποίηση.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Master Data Management (MDM) διαχειρίζεται τα κύρια δεδομένα του οργανισμού.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Data Replication δημιουργεί αντίγραφα δεδομένων για διαθεσιμότητα.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Sampling επιλέγει υποσύνολο από μεγάλο σύνολο δεδομένων.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Data Compression μειώνει το μέγεθος δεδομένων για αποθήκευση.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Partitioning διαιρεί δεδομένα σε μικρότερες ενότητες για καλύτερη διαχείριση.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Data Anonymization διατηρεί όλα τα προσωπικά αναγνωριστικά στοιχεία.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Η Data Anonymization αφαιρεί προσωπικά αναγνωριστικά για προστασία ιδιωτικότητας."
+  },
+  {
+    "question": "Το Data Archiving μετακινεί παλιά δεδομένα σε μακροπρόθεσμη αποθήκευση.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Η Data Consistency διασφαλίζει ότι τα δεδομένα είναι ακριβή και αξιόπιστα σε όλα τα συστήματα.",
+    "answer": true,
+    "chapter_number": 3
+  },
+  {
+    "question": "Το Data Versioning δεν παρακολουθεί αλλαγές στα δεδομένα.",
+    "answer": false,
+    "chapter_number": 3,
+    "right_answer": "Το Data Versioning παρακολουθεί και διατηρεί διαφορετικές εκδόσεις δεδομένων."
+  },
+  {
+    "question": "Η Data Monetization αναφέρεται στη δημιουργία αξίας από δεδομένα.",
+    "answer": true,
+    "chapter_number": 3
+  }
+]

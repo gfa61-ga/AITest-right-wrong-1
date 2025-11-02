@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Τα Convolutional Neural Networks (CNNs) χρησιμοποιούνται κυρίως για επεξεργασία εικόνων.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα Recurrent Neural Networks (RNNs) είναι κατάλληλα για ακολουθιακά δεδομένα όπως κείμενο και ήχο.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Η Deep Learning χρησιμοποιεί πολυεπίπεδα νευρωνικά δίκτυα.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα RNNs δεν είναι κατάλληλα για ακολουθιακά δεδομένα.",
+    "answer": false,
+    "chapter_number": 6,
+    "right_answer": "Τα RNNs είναι κατάλληλα για ακολουθιακά δεδομένα."
+  },
+  {
+    "question": "Τα LSTM (Long Short-Term Memory) αντιμετωπίζουν το πρόβλημα εξαφάνισης βαθμίδας.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα GRU είναι ίδια με τα LSTM.",
+    "answer": false,
+    "chapter_number": 6,
+    "right_answer": "Τα GRU (Gated Recurrent Units) είναι παραλλαγή των LSTM με απλούστερη αρχιτεκτονική."
+  },
+  {
+    "question": "Τα GANs αποτελούνται από Generator και Discriminator.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα VAEs δεν χρησιμοποιούνται για παραγωγή δεδομένων.",
+    "answer": false,
+    "chapter_number": 6,
+    "right_answer": "Τα VAEs (Variational Autoencoders) χρησιμοποιούνται για παραγωγή νέων δεδομένων."
+  },
+  {
+    "question": "Η Dropout τεχνική απενεργοποιεί τυχαία νευρώνες κατά την εκπαίδευση.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Batch Normalization δεν κανονικοποιεί τις εισόδους.",
+    "answer": false,
+    "chapter_number": 6,
+    "right_answer": "Το Batch Normalization κανονικοποιεί τις εισόδους κάθε επιπέδου."
+  },
+  {
+    "question": "Το Residual Connection επιτρέπει στην πληροφορία να παρακάμπτει επίπεδα.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Skip Connection δεν είναι το ίδιο με το Residual Connection.",
+    "answer": false,
+    "chapter_number": 6,
+    "right_answer": "Το Skip Connection είναι άλλο όνομα για Residual Connection."
+  },
+  {
+    "question": "Η Activation Function εισάγει μη-γραμμικότητα στο μοντέλο.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Η ReLU παράγει αρνητικές τιμές.",
+    "answer": false,
+    "chapter_number": 6,
+    "right_answer": "Η ReLU (Rectified Linear Unit) παράγει μηδέν για αρνητικές εισόδους και τις ίδιες τιμές για θετικές."
+  },
+  {
+    "question": "Η Sigmoid activation function παράγει τιμές μεταξύ 0 και 1.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Η Tanh activation function παράγει τιμές μεταξύ 0 και 2.",
+    "answer": false,
+    "chapter_number": 6,
+    "right_answer": "Η Tanh activation function παράγει τιμές μεταξύ -1 και 1."
+  },
+  {
+    "question": "Το Transfer Learning επιτρέπει τη χρήση προεκπαιδευμένων μοντέλων.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Οι αρχιτεκτονικές ResNet και VGG χρησιμοποιούνται για βαθιά μάθηση σε εικόνες.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Η Gradient Accumulation συσσωρεύει βαθμίδες για μεγαλύτερο batch size.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Learning Rate Scheduling δεν προσαρμόζει το learning rate.",
+    "answer": false,
+    "chapter_number": 6,
+    "right_answer": "Το Learning Rate Scheduling προσαρμόζει το learning rate κατά την εκπαίδευση."
+  },
+  {
+    "question": "Το Early Stopping σταματά την εκπαίδευση όταν η απόδοση σταθεροποιείται.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Pooling Layer μειώνει τη διαστατικότητα σε CNNs.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Max Pooling επιλέγει τη μέγιστη τιμή από κάθε περιοχή.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Average Pooling υπολογίζει τη μέση τιμή από κάθε περιοχή.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα Convolutional Filters εξάγουν χαρακτηριστικά από εικόνες.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Stride καθορίζει το βήμα μετακίνησης του φίλτρου.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Padding προσθέτει pixels στα άκρα της εικόνας.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Inception Module χρησιμοποιεί πολλαπλά μεγέθη φίλτρων.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το DenseNet συνδέει κάθε επίπεδο με όλα τα επόμενα.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το MobileNet είναι ελαφριά αρχιτεκτονική για mobile devices.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το EfficientNet βελτιστοποιεί όλες τις διαστάσεις του δικτύου.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα Attention Mechanisms εστιάζουν σε σημαντικά μέρη των δεδομένων.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Self-Attention υπολογίζει τη σχέση μεταξύ όλων των θέσεων.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα Transformer αρχιτεκτονικές βασίζονται σε attention mechanisms.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Multi-Head Attention χρησιμοποιεί πολλαπλά attention layers.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Το Positional Encoding προσθέτει πληροφορία θέσης στα Transformers.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα Autoencoders μαθαίνουν συμπιεσμένες αναπαραστάσεις δεδομένων.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Ο Encoder συμπιέζει τα δεδομένα.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Ο Decoder ανακατασκευάζει τα δεδομένα από τη συμπιεσμένη αναπαράσταση.",
+    "answer": true,
+    "chapter_number": 6
+  },
+  {
+    "question": "Τα Denoising Autoencoders μαθαίνουν να αφαιρούν θόρυβο από δεδομένα.",
+    "answer": true,
+    "chapter_number": 6
+  }
+]

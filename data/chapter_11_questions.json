@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Το Big Data χαρακτηρίζεται από τα 3 V's: Volume, Velocity, Variety.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Volume αναφέρεται στην ταχύτητα δημιουργίας δεδομένων.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Το Volume αναφέρεται στο μέγεθος των δεδομένων."
+  },
+  {
+    "question": "Το Velocity αναφέρεται στην ταχύτητα δημιουργίας και επεξεργασίας δεδομένων.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Variety δεν αναφέρεται στην ποικιλία τύπων δεδομένων.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Το Variety αναφέρεται στην ποικιλία τύπων δεδομένων."
+  },
+  {
+    "question": "Το Hadoop είναι framework για κατανεμημένη επεξεργασία Big Data.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Apache Spark είναι πιο αργό από το Hadoop MapReduce.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Το Apache Spark είναι πολύ ταχύτερο από το Hadoop MapReduce."
+  },
+  {
+    "question": "Το HDFS (Hadoop Distributed File System) αποθηκεύει δεδομένα κατανεμημένα.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το MapReduce είναι μοντέλο προγραμματισμού για παράλληλη επεξεργασία.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το NoSQL δεν χρησιμοποιείται για Big Data.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Το NoSQL χρησιμοποιείται ευρέως για Big Data."
+  },
+  {
+    "question": "Το MongoDB είναι NoSQL βάση δεδομένων.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Cassandra είναι σχεσιακή βάση δεδομένων.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Το Cassandra είναι NoSQL κατανεμημένη βάση δεδομένων."
+  },
+  {
+    "question": "Τα Data Lakes αποθηκεύουν δεδομένα σε ακατέργαστη μορφή.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Τα Data Warehouses είναι το ίδιο με τα Data Lakes.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Τα Data Warehouses αποθηκεύουν δομημένα επεξεργασμένα δεδομένα, ενώ τα Data Lakes ακατέργαστα."
+  },
+  {
+    "question": "Το Batch Processing επεξεργάζεται δεδομένα σε παρτίδες.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Stream Processing επεξεργάζεται δεδομένα σε πραγματικό χρόνο.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Apache Kafka χρησιμοποιείται για stream processing.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Apache Flink δεν υποστηρίζει stream processing.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Το Apache Flink υποστηρίζει προηγμένο stream processing."
+  },
+  {
+    "question": "Το Distributed Computing επιτρέπει επεξεργασία σε πολλαπλούς κόμβους.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Data Partitioning διανέμει δεδομένα σε πολλαπλούς κόμβους.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Data Replication δεν βελτιώνει τη διαθεσιμότητα.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Το Data Replication βελτιώνει τη διαθεσιμότητα και την ανοχή σε σφάλματα."
+  },
+  {
+    "question": "Τα Columnar Databases αποθηκεύουν δεδομένα κατά στήλες.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Apache Parquet είναι columnar format.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Data Compression μειώνει το μέγεθος δεδομένων.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Η ΤΝ μπορεί να αναλύσει Big Data για εξαγωγή insights.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Distributed Training εκπαιδεύει μοντέλα ΤΝ σε κατανεμημένα δεδομένα.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Τα Data Pipelines δεν αυτοματοποιούν τη ροή δεδομένων.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Τα Data Pipelines αυτοματοποιούν τη ροή και επεξεργασία δεδομένων."
+  },
+  {
+    "question": "Το Apache Airflow διαχειρίζεται workflows και pipelines.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το Real-time Analytics παρέχει άμεσα αποτελέσματα.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Η Scalability επιτρέπει σε συστήματα να χειρίζονται αυξανόμενα φορτία.",
+    "answer": true,
+    "chapter_number": 11
+  },
+  {
+    "question": "Το CAP Theorem δηλώνει ότι ένα κατανεμημένο σύστημα μπορεί να έχει ταυτόχρονα Consistency, Availability και Partition Tolerance.",
+    "answer": false,
+    "chapter_number": 11,
+    "right_answer": "Το CAP Theorem δηλώνει ότι μόνο 2 από τα 3 μπορούν να επιτευχθούν ταυτόχρονα."
+  }
+]

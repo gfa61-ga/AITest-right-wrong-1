@@ -1,0 +1,191 @@
+[
+  {
+    "question": "Η Ενισχυτική Μάθηση βασίζεται σε ανταμοιβές και ποινές για τη βελτίωση της απόδοσης.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Η Ενισχυτική Μάθηση περιλαμβάνει έναν πράκτορα που αλληλεπιδρά με το περιβάλλον.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Ο Agent στην Ενισχυτική Μάθηση δεν λαμβάνει αποφάσεις.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Ο Agent λαμβάνει αποφάσεις και επιλέγει ενέργειες."
+  },
+  {
+    "question": "Το Environment παρέχει ανατροφοδότηση στον Agent.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Η Policy δεν καθορίζει τη στρατηγική του Agent.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Η Policy καθορίζει τη στρατηγική του Agent."
+  },
+  {
+    "question": "Η Reward Function καθορίζει τις ανταμοιβές.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Η Value Function υπολογίζει μόνο την άμεση ανταμοιβή.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Η Value Function εκτιμά την αναμενόμενη συνολική ανταμοιβή."
+  },
+  {
+    "question": "Το Q-Learning είναι αλγόριθμος μάθησης βασισμένος σε μοντέλο (model-based).",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Το Q-Learning είναι model-free αλγόριθμος."
+  },
+  {
+    "question": "Το Deep Q-Learning συνδυάζει Q-Learning με νευρωνικά δίκτυα.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Οι Policy Gradient Methods εκτιμούν μόνο αξίες καταστάσεων.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Οι Policy Gradient Methods βελτιστοποιούν απευθείας τη στρατηγική του πράκτορα."
+  },
+  {
+    "question": "Το REINFORCE είναι αλγόριθμος Policy Gradient.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το PPO σημαίνει Positive Policy Optimization.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Το PPO σημαίνει Proximal Policy Optimization."
+  },
+  {
+    "question": "Τα Actor-Critic μοντέλα συνδυάζουν εκτίμηση αξίας και βελτίωση στρατηγικής.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Ο Actor αξιολογεί τις ενέργειες.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Ο Actor επιλέγει ενέργειες, ο Critic αξιολογεί."
+  },
+  {
+    "question": "Ο Critic αξιολογεί τις ενέργειες.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το A2C σημαίνει Advanced Actor-Critic.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Το A2C σημαίνει Advantage Actor-Critic."
+  },
+  {
+    "question": "Το DDPG χρησιμοποιείται για συνεχείς χώρους ενεργειών.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Η Ιεραρχική Ενισχυτική Μάθηση χρησιμοποιεί μόνο ένα επίπεδο λήψης αποφάσεων.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Η Ιεραρχική Ενισχυτική Μάθηση χρησιμοποιεί πολυεπίπεδη λήψη αποφάσεων."
+  },
+  {
+    "question": "Οι Sub-policies στην Ιεραρχική Μάθηση εκτελούν υπο-εργασίες.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Τα Πολυπρακτορικά Συστήματα περιλαμβάνουν μόνο έναν πράκτορα.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Τα Multi-Agent Systems περιλαμβάνουν πολλούς πράκτορες."
+  },
+  {
+    "question": "Οι πράκτορες μπορούν να συνεργάζονται ή να ανταγωνίζονται.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το Independent Q-Learning απαιτεί συγκεντρωμένη εκπαίδευση.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Το Independent Q-Learning είναι αποκεντρωμένη τεχνική όπου κάθε πράκτορας μαθαίνει ανεξάρτητα."
+  },
+  {
+    "question": "Το Centralized Training με Decentralized Execution εκπαιδεύει κεντρικά αλλά εκτελεί αποκεντρωμένα.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το Exploration vs Exploitation δεν είναι δίλημμα στην Ενισχυτική Μάθηση.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Το Exploration vs Exploitation είναι θεμελιώδες δίλημμα στην Ενισχυτική Μάθηση."
+  },
+  {
+    "question": "Το Exploration εξερευνά νέες ενέργειες.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το Exploitation εξερευνά νέες άγνωστες ενέργειες.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Το Exploitation αξιοποιεί γνωστές ανταμοιβές."
+  },
+  {
+    "question": "Το ε-greedy είναι στρατηγική για exploration-exploitation.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το Markov Decision Process (MDP) μοντελοποιεί προβλήματα ενισχυτικής μάθησης.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το Discount Factor καθορίζει τη σημασία μελλοντικών ανταμοιβών.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το Temporal Difference Learning συνδυάζει Monte Carlo και Dynamic Programming.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το SARSA είναι on-policy αλγόριθμος.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το Q-Learning είναι on-policy αλγόριθμος.",
+    "answer": false,
+    "chapter_number": 8,
+    "right_answer": "Το Q-Learning είναι off-policy αλγόριθμος."
+  },
+  {
+    "question": "Το Experience Replay αποθηκεύει εμπειρίες για επανάληψη.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Το Target Network σταθεροποιεί την εκπαίδευση στο Deep Q-Learning.",
+    "answer": true,
+    "chapter_number": 8
+  },
+  {
+    "question": "Η Ενισχυτική Μάθηση χρησιμοποιείται σε παιχνίδια όπως το AlphaGo.",
+    "answer": true,
+    "chapter_number": 8
+  }
+]

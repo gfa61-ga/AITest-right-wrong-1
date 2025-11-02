@@ -1,0 +1,135 @@
+[
+  {
+    "question": "Η Ρομποτική συνδυάζει μόνο μηχανολογία.",
+    "answer": false,
+    "chapter_number": 9,
+    "right_answer": "Η Ρομποτική συνδυάζει μηχανολογία, ηλεκτρονική και πληροφορική."
+  },
+  {
+    "question": "Οι Sensors συλλέγουν πληροφορίες από το περιβάλλον.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Οι Actuators συλλέγουν δεδομένα από αισθητήρες.",
+    "answer": false,
+    "chapter_number": 9,
+    "right_answer": "Οι Actuators εκτελούν φυσικές ενέργειες."
+  },
+  {
+    "question": "Το LIDAR μετρά αποστάσεις χρησιμοποιώντας λέιζερ.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Οι κάμερες δεν χρησιμοποιούνται για Machine Vision.",
+    "answer": false,
+    "chapter_number": 9,
+    "right_answer": "Οι κάμερες χρησιμοποιούνται ευρέως για Machine Vision."
+  },
+  {
+    "question": "Τα Cobots (Collaborative Robots) εργάζονται με ανθρώπους.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Τα Service Robots δεν παρέχουν υπηρεσίες σε ανθρώπους.",
+    "answer": false,
+    "chapter_number": 9,
+    "right_answer": "Τα Service Robots παρέχουν υπηρεσίες σε ανθρώπους."
+  },
+  {
+    "question": "Το SLAM χρησιμοποιείται για πλοήγηση και χαρτογράφηση.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Η Path Planning δεν καθορίζει τη διαδρομή του ρομπότ.",
+    "answer": false,
+    "chapter_number": 9,
+    "right_answer": "Η Path Planning καθορίζει τη διαδρομή του ρομπότ."
+  },
+  {
+    "question": "Η Robotic Manipulation αφορά τον χειρισμό αντικειμένων.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Τα Grippers δεν χρησιμοποιούνται για να πιάσουν αντικείμενα.",
+    "answer": false,
+    "chapter_number": 9,
+    "right_answer": "Τα Grippers χρησιμοποιούνται για να πιάσουν και να χειριστούν αντικείμενα."
+  },
+  {
+    "question": "Η Machine Perception επιτρέπει στα ρομπότ να κατανοούν το περιβάλλον.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Τα Αυτόνομα Οχήματα χρησιμοποιούν ΤΝ για πλοήγηση.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Η Ενισχυτική Μάθηση χρησιμοποιείται για έλεγχο ρομπότ.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Τα Drones δεν χρησιμοποιούν ΤΝ για αυτόνομη πτήση.",
+    "answer": false,
+    "chapter_number": 9,
+    "right_answer": "Τα Drones χρησιμοποιούν ΤΝ για αυτόνομη πτήση και αποφυγή εμποδίων."
+  },
+  {
+    "question": "Η Inverse Kinematics υπολογίζει τις γωνίες αρθρώσεων για επιθυμητή θέση.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Η Forward Kinematics υπολογίζει τη θέση από γωνίες αρθρώσεων.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Τα Industrial Robots χρησιμοποιούνται στην παραγωγή.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Η Object Detection βοηθά τα ρομπότ να εντοπίζουν αντικείμενα.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Τα Humanoid Robots μιμούνται την ανθρώπινη μορφή.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Η Swarm Robotics χρησιμοποιεί έναν μόνο ρομπότ.",
+    "answer": false,
+    "chapter_number": 9,
+    "right_answer": "Η Swarm Robotics χρησιμοποιεί πολλαπλά ρομπότ που συνεργάζονται."
+  },
+  {
+    "question": "Το ROS (Robot Operating System) είναι δημοφιλές framework για ρομποτική.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Η Simultaneous Localization and Mapping (SLAM) βοηθά τα ρομπότ να δημιουργούν χάρτες.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Τα Soft Robots χρησιμοποιούν ελαστικά υλικά.",
+    "answer": true,
+    "chapter_number": 9
+  },
+  {
+    "question": "Η Computer Vision είναι κρίσιμη για την αυτόνομη πλοήγηση ρομπότ.",
+    "answer": true,
+    "chapter_number": 9
+  }
+]

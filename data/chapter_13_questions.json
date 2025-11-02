@@ -1,0 +1,133 @@
+[
+  {
+    "question": "Οι Chatbots χρησιμοποιούν NLP για κατανόηση φυσικής γλώσσας.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Τα Διαλογικά Συστήματα δεν αλληλεπιδρούν με χρήστες.",
+    "answer": false,
+    "chapter_number": 13,
+    "right_answer": "Τα Διαλογικά Συστήματα αλληλεπιδρούν με χρήστες μέσω φυσικής γλώσσας."
+  },
+  {
+    "question": "Οι Virtual Assistants όπως Alexa και Siri είναι διαλογικά συστήματα.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Το Intent Recognition εντοπίζει την πρόθεση του χρήστη.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Το Entity Extraction δεν εξάγει σημαντικές πληροφορίες.",
+    "answer": false,
+    "chapter_number": 13,
+    "right_answer": "Το Entity Extraction εξάγει σημαντικές οντότητες από το κείμενο."
+  },
+  {
+    "question": "Τα Rule-Based Chatbots χρησιμοποιούν προκαθορισμένους κανόνες.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Τα AI-powered Chatbots μαθαίνουν από δεδομένα.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Το Dialogue Management διαχειρίζεται τη ροή συνομιλίας.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Το Context Tracking δεν παρακολουθεί το ιστορικό συνομιλίας.",
+    "answer": false,
+    "chapter_number": 13,
+    "right_answer": "Το Context Tracking παρακολουθεί το ιστορικό για καλύτερη κατανόηση."
+  },
+  {
+    "question": "Τα Seq2Seq μοντέλα χρησιμοποιούνται για παραγωγή απαντήσεων.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Τα Retrieval-based Chatbots επιλέγουν απαντήσεις από προκαθορισμένο σύνολο.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Τα Generative Chatbots δημιουργούν νέες απαντήσεις.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Το RASA είναι πλατφόρμα για δημιουργία chatbots.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Τα Conversational AI συστήματα δεν χρησιμοποιούν μηχανική μάθηση.",
+    "answer": false,
+    "chapter_number": 13,
+    "right_answer": "Τα Conversational AI συστήματα χρησιμοποιούν ευρέως μηχανική μάθηση."
+  },
+  {
+    "question": "Το Sentiment Analysis βοηθά τα chatbots να κατανοούν το συναίσθημα.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Η Speech Recognition μετατρέπει ομιλία σε κείμενο.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Η Text-to-Speech δεν μετατρέπει κείμενο σε ομιλία.",
+    "answer": false,
+    "chapter_number": 13,
+    "right_answer": "Η Text-to-Speech μετατρέπει κείμενο σε ομιλία."
+  },
+  {
+    "question": "Τα Voice Assistants συνδυάζουν speech recognition και TTS.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Το Slot Filling συλλέγει απαραίτητες πληροφορίες από χρήστες.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Το Multi-turn Dialogue χειρίζεται πολλαπλές ανταλλαγές.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Η Personalization προσαρμόζει απαντήσεις στον χρήστη.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Τα Chatbots δεν χρησιμοποιούνται στην εξυπηρέτηση πελατών.",
+    "answer": false,
+    "chapter_number": 13,
+    "right_answer": "Τα Chatbots χρησιμοποιούνται ευρέως στην εξυπηρέτηση πελατών."
+  },
+  {
+    "question": "Το Natural Language Understanding (NLU) κατανοεί την έννοια κειμένου.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Το Natural Language Generation (NLG) παράγει κείμενο.",
+    "answer": true,
+    "chapter_number": 13
+  },
+  {
+    "question": "Τα Large Language Models όπως το GPT χρησιμοποιούνται σε chatbots.",
+    "answer": true,
+    "chapter_number": 13
+  }
+]

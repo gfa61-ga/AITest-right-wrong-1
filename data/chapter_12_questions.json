@@ -1,0 +1,133 @@
+[
+  {
+    "question": "Η Υπολογιστική Όραση επιτρέπει στους υπολογιστές να κατανοούν εικόνες και βίντεο.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Image Classification ταξινομεί εικόνες σε κατηγορίες.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Object Detection μόνο ταξινομεί αντικείμενα.",
+    "answer": false,
+    "chapter_number": 12,
+    "right_answer": "Το Object Detection εντοπίζει και τοποθετεί αντικείμενα σε εικόνες."
+  },
+  {
+    "question": "Το Semantic Segmentation ταξινομεί κάθε pixel μιας εικόνας.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Instance Segmentation διακρίνει μεμονωμένα αντικείμενα.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Τα CNNs είναι η κύρια αρχιτεκτονική για Computer Vision.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το ImageNet είναι μικρό dataset με λίγες εικόνες.",
+    "answer": false,
+    "chapter_number": 12,
+    "right_answer": "Το ImageNet είναι τεράστιο dataset με εκατομμύρια εικόνες."
+  },
+  {
+    "question": "Το YOLO (You Only Look Once) είναι γρήγορος αλγόριθμος object detection.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το R-CNN δεν χρησιμοποιείται για object detection.",
+    "answer": false,
+    "chapter_number": 12,
+    "right_answer": "Το R-CNN χρησιμοποιείται για object detection."
+  },
+  {
+    "question": "Το Face Recognition εντοπίζει και αναγνωρίζει πρόσωπα.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Η Pose Estimation εκτιμά τη στάση του σώματος.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Optical Character Recognition (OCR) δεν αναγνωρίζει κείμενο.",
+    "answer": false,
+    "chapter_number": 12,
+    "right_answer": "Το OCR αναγνωρίζει κείμενο από εικόνες."
+  },
+  {
+    "question": "Η Image Augmentation δημιουργεί παραλλαγές εικόνων για εκπαίδευση.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Transfer Learning χρησιμοποιείται ευρέως στην Computer Vision.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Image Preprocessing βελτιώνει την ποιότητα εικόνων.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Η Edge Detection εντοπίζει άκρες και περιγράμματα.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Τα Feature Maps εξάγονται από convolutional layers.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Image Filtering δεν χρησιμοποιείται για επεξεργασία εικόνας.",
+    "answer": false,
+    "chapter_number": 12,
+    "right_answer": "Το Image Filtering χρησιμοποιείται για βελτίωση και επεξεργασία εικόνων."
+  },
+  {
+    "question": "Η Video Analysis αναλύει ακολουθίες frames.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Object Tracking παρακολουθεί αντικείμενα σε βίντεο.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το 3D Computer Vision αναλύει τρισδιάστατες πληροφορίες.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Η Depth Estimation εκτιμά την απόσταση αντικειμένων.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Medical Imaging δεν χρησιμοποιεί Computer Vision.",
+    "answer": false,
+    "chapter_number": 12,
+    "right_answer": "Το Medical Imaging χρησιμοποιεί ευρέως Computer Vision για διάγνωση."
+  },
+  {
+    "question": "Η Image Generation δημιουργεί νέες εικόνες με GANs.",
+    "answer": true,
+    "chapter_number": 12
+  },
+  {
+    "question": "Το Style Transfer μεταφέρει το στυλ μιας εικόνας σε άλλη.",
+    "answer": true,
+    "chapter_number": 12
+  }
+]

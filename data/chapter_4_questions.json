@@ -1,0 +1,160 @@
+[
+  {
+    "question": "Η Computability Theory αναπτύχθηκε από τον John von Neumann.",
+    "answer": false,
+    "chapter_number": 4,
+    "right_answer": "Η Computability Theory αναπτύχθηκε από τον Alan Turing."
+  },
+  {
+    "question": "Η Θεωρία Πιθανοτήτων και Στατιστική χρησιμοποιείται σε probabilistic models της ΤΝ.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Τα Bayesian Networks είναι παράδειγμα probabilistic models.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η Computational Learning Theory μελετά μόνο τα νευρωνικά δίκτυα.",
+    "answer": false,
+    "chapter_number": 4,
+    "right_answer": "Η Computational Learning Theory μελετά τα όρια και τις δυνατότητες μάθησης αλγορίθμων γενικά, όχι μόνο νευρωνικά δίκτυα."
+  },
+  {
+    "question": "Τα Markov Models χρησιμοποιούνται για μοντελοποίηση ακολουθιακών δεδομένων.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Ο Deductive Reasoning χρησιμοποιεί inference rules για εξαγωγή συμπερασμάτων.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Ο Inductive Reasoning είναι πάντα 100% ακριβής.",
+    "answer": false,
+    "chapter_number": 4,
+    "right_answer": "Ο Inductive Reasoning βασίζεται σε παρατηρήσεις για γενίκευση και δεν είναι πάντα 100% ακριβής."
+  },
+  {
+    "question": "Το Breadth-First Search (BFS) εξερευνά κατά βάθος.",
+    "answer": false,
+    "chapter_number": 4,
+    "right_answer": "Το BFS εξερευνά κατά πλάτος."
+  },
+  {
+    "question": "Το Depth-First Search (DFS) εξερευνά κατά βάθος.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Οι Heuristic Search Algorithms δεν χρησιμοποιούν heuristic functions.",
+    "answer": false,
+    "chapter_number": 4,
+    "right_answer": "Οι Heuristic Search Algorithms χρησιμοποιούν heuristic functions."
+  },
+  {
+    "question": "Ο αλγόριθμος A* χρησιμοποιεί heuristic για αποδοτική αναζήτηση.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η Propositional Logic χρησιμοποιεί προτάσεις και λογικούς τελεστές.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η First-Order Logic είναι λιγότερο εκφραστική από την Propositional Logic.",
+    "answer": false,
+    "chapter_number": 4,
+    "right_answer": "Η First-Order Logic είναι πιο εκφραστική καθώς περιλαμβάνει μεταβλητές και quantifiers."
+  },
+  {
+    "question": "Το Constraint Satisfaction Problem (CSP) αναζητά λύση που ικανοποιεί περιορισμούς.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Τα Game Trees χρησιμοποιούνται για μοντελοποίηση παιχνιδιών με δύο παίκτες.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Ο αλγόριθμος Minimax δεν χρησιμοποιείται σε παιχνίδια.",
+    "answer": false,
+    "chapter_number": 4,
+    "right_answer": "Ο αλγόριθμος Minimax χρησιμοποιείται για λήψη αποφάσεων σε παιχνίδια."
+  },
+  {
+    "question": "Το Alpha-Beta Pruning βελτιώνει την αποδοτικότητα του Minimax.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η Monte Carlo Tree Search χρησιμοποιεί τυχαίες προσομοιώσεις.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η Fuzzy Logic χειρίζεται ασάφεια και αβεβαιότητα.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Τα Hidden Markov Models (HMMs) δεν χρησιμοποιούνται για ακολουθιακά δεδομένα.",
+    "answer": false,
+    "chapter_number": 4,
+    "right_answer": "Τα HMMs χρησιμοποιούνται ευρέως για ακολουθιακά δεδομένα όπως ομιλία."
+  },
+  {
+    "question": "Η Bayesian Inference ενημερώνει πιθανότητες με βάση νέα δεδομένα.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Το Naive Bayes είναι ταξινομητής που χρησιμοποιεί το Θεώρημα Bayes.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η Information Theory μετρά την αβεβαιότητα με την εντροπία.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Το Kolmogorov Complexity μετρά την πολυπλοκότητα ενός αλγορίθμου.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η PAC Learning Theory μελετά πότε ένας αλγόριθμος μπορεί να μάθει αποδοτικά.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Το VC Dimension μετρά την ικανότητα ενός μοντέλου να ταξινομεί.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η No Free Lunch Theorem δηλώνει ότι δεν υπάρχει καθολικά βέλτιστος αλγόριθμος.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Το Occam's Razor προτιμά απλούστερα μοντέλα.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Η Curse of Dimensionality αναφέρεται σε προβλήματα με πολλές διαστάσεις.",
+    "answer": true,
+    "chapter_number": 4
+  },
+  {
+    "question": "Το Bias-Variance Tradeoff είναι θεμελιώδης έννοια στη μηχανική μάθηση.",
+    "answer": true,
+    "chapter_number": 4
+  }
+]

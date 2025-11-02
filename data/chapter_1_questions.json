@@ -1,0 +1,189 @@
+[
+  {
+    "question": "Η Τεχνητή Νοημοσύνη αναφέρεται στην ικανότητα μηχανών να εκτελούν εργασίες που συνήθως απαιτούν ανθρώπινη νοημοσύνη.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Ο Alan Turing ανέπτυξε το πρώτο νευρωνικό δίκτυο το 1950.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Ο Alan Turing ανέπτυξε το τεστ Turing και τη θεωρία υπολογισιμότητας, όχι το πρώτο νευρωνικό δίκτυο."
+  },
+  {
+    "question": "Το τεστ Turing αξιολογεί αν μια μηχανή μπορεί να επιδείξει συμπεριφορά που δεν διακρίνεται από αυτή ενός ανθρώπου.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Ο John McCarthy επινόησε τον όρο 'Artificial Intelligence' το 1956.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Το Logic Theorist ήταν το πρώτο πρόγραμμα τεχνητής νοημοσύνης που δημιουργήθηκε το 1956.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η LISP αναπτύχθηκε από τον Alan Turing για την ΤΝ.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Η LISP αναπτύχθηκε από τον John McCarthy, όχι τον Alan Turing."
+  },
+  {
+    "question": "Τα Expert Systems ήταν δημοφιλή τη δεκαετία του 1980.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Το DENDRAL ήταν ένα από τα πρώτα expert systems.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Μηχανική Μάθηση είναι ένας κλάδος της ΤΝ που επιτρέπει στα συστήματα να μαθαίνουν από δεδομένα.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η ΤΝ δεν χρησιμοποιείται στην Υγεία.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Η ΤΝ χρησιμοποιείται ευρέως στην Υγεία για διάγνωση ασθενειών και εξατομικευμένη θεραπεία."
+  },
+  {
+    "question": "Η ΤΝ μπορεί να αναλύσει ιατρικές εικόνες για ανίχνευση ασθενειών.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η ΤΝ δεν χρησιμοποιείται για ανακάλυψη φαρμάκων.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Η ΤΝ χρησιμοποιείται για ανακάλυψη φαρμάκων."
+  },
+  {
+    "question": "Τα Wearable Devices με ΤΝ παρακολουθούν την υγεία σε πραγματικό χρόνο.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Τηλεϊατρική δεν χρησιμοποιεί ΤΝ.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Η Τηλεϊατρική χρησιμοποιεί ΤΝ για απομακρυσμένη διάγνωση."
+  },
+  {
+    "question": "Η Γονιδιωματική χρησιμοποιεί ΤΝ για ανάλυση DNA.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η ΤΝ χρησιμοποιείται στην Εκπαίδευση για εξατομικευμένη μάθηση.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Τα Adaptive Learning Systems δεν προσαρμόζονται στις ανάγκες μαθητών.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Τα Adaptive Learning Systems προσαρμόζονται στις ανάγκες κάθε μαθητή."
+  },
+  {
+    "question": "Η Αυτόματη Βαθμολόγηση χρησιμοποιεί ΤΝ.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η ΤΝ δεν χρησιμοποιείται στο Χρηματοοικονομικό τομέα.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Η ΤΝ χρησιμοποιείται ευρέως στο Χρηματοοικονομικό τομέα για ανίχνευση απάτης, trading κ.α."
+  },
+  {
+    "question": "Τα Algorithmic Trading συστήματα χρησιμοποιούν ΤΝ για αυτοματοποιημένες συναλλαγές.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Credit Scoring δεν χρησιμοποιεί ΤΝ.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Η Credit Scoring χρησιμοποιεί ΤΝ για αξιολόγηση πιστοληπτικής ικανότητας."
+  },
+  {
+    "question": "Η ΤΝ χρησιμοποιείται στο Marketing για εξατομικευμένες προτάσεις.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Recommendation Systems δεν προτείνουν προϊόντα.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Τα Recommendation Systems προτείνουν προϊόντα με βάση τις προτιμήσεις χρηστών."
+  },
+  {
+    "question": "Το Collaborative Filtering χρησιμοποιείται σε recommendation systems.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Το Content-Based Filtering δεν αναλύει χαρακτηριστικά προϊόντων.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Το Content-Based Filtering αναλύει χαρακτηριστικά προϊόντων για προτάσεις."
+  },
+  {
+    "question": "Η Customer Segmentation ομαδοποιεί πελάτες με παρόμοια χαρακτηριστικά.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Churn Prediction δεν προβλέπει εγκατάλειψη πελατών.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Η Churn Prediction προβλέπει ποιοι πελάτες θα εγκαταλείψουν μια υπηρεσία."
+  },
+  {
+    "question": "Τα Νευρωνικά Δίκτυα εμπνέονται από τη δομή και λειτουργία του ανθρώπινου εγκεφάλου.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Βαθιά Μάθηση χρησιμοποιεί ρηχά νευρωνικά δίκτυα με ένα ή δύο επίπεδα.",
+    "answer": false,
+    "chapter_number": 1,
+    "right_answer": "Η Βαθιά Μάθηση χρησιμοποιεί πολυεπίπεδα (βαθιά) νευρωνικά δίκτυα."
+  },
+  {
+    "question": "Οι Intelligent Agents αλληλεπιδρούν με το περιβάλλον τους.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Neuroscience έχει εμπνεύσει την ανάπτυξη Τεχνητών Νευρωνικών Δικτύων.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Theory of Mind αναφέρεται στην κατανόηση ψυχικών καταστάσεων.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Η Sentiment Analysis χρησιμοποιεί NLP για προσδιορισμό συναισθηματικού τόνου.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Το AI Winter αναφέρεται σε περιόδους μειωμένης χρηματοδότησης και ενδιαφέροντος για την ΤΝ.",
+    "answer": true,
+    "chapter_number": 1
+  },
+  {
+    "question": "Το Big Data και η Deep Learning έχουν συμβάλει στην εξέλιξη της ΤΝ από το 2000 και μετά.",
+    "answer": true,
+    "chapter_number": 1
+  }
+]

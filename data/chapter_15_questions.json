@@ -1,0 +1,264 @@
+[
+  {
+    "question": "Η Υλοποίηση Συστήματος ΤΝ περιλαμβάνει πολλά στάδια από σχεδιασμό έως deployment.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η Requirements Analysis προσδιορίζει τις ανάγκες του συστήματος.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Problem Framing δεν είναι σημαντικό για την επιτυχία ΤΝ.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το Problem Framing είναι κρίσιμο για τον ορισμό του προβλήματος."
+  },
+  {
+    "question": "Η Data Collection συλλέγει δεδομένα για εκπαίδευση.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η Data Annotation δεν απαιτείται για εποπτευόμενη μάθηση.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Η Data Annotation είναι απαραίτητη για εποπτευόμενη μάθηση."
+  },
+  {
+    "question": "Το Model Selection επιλέγει το κατάλληλο μοντέλο για το πρόβλημα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Training εκπαιδεύει το μοντέλο στα δεδομένα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η Validation αξιολογεί την απόδοση σε μη εκπαιδευμένα δεδομένα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Testing γίνεται στα ίδια δεδομένα με το Training.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το Testing γίνεται σε ξεχωριστά δεδομένα που δεν χρησιμοποιήθηκαν στην εκπαίδευση."
+  },
+  {
+    "question": "Το Deployment εγκαθιστά το μοντέλο σε παραγωγικό περιβάλλον.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Monitoring παρακολουθεί την απόδοση του μοντέλου σε παραγωγή.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η Model Maintenance δεν είναι απαραίτητη μετά το deployment.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Η Model Maintenance είναι απαραίτητη για διατήρηση απόδοσης."
+  },
+  {
+    "question": "Το MLOps συνδυάζει ML και DevOps πρακτικές.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η CI/CD (Continuous Integration/Continuous Deployment) αυτοματοποιεί την ανάπτυξη.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Τα Model Versioning διατηρεί διαφορετικές εκδόσεις μοντέλων.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το A/B Testing δεν συγκρίνει μοντέλα σε παραγωγή.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το A/B Testing συγκρίνει μοντέλα σε πραγματικές συνθήκες."
+  },
+  {
+    "question": "Το Model Registry αποθηκεύει και διαχειρίζεται μοντέλα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η Feature Store διαχειρίζεται χαρακτηριστικά για μοντέλα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Data Drift αναφέρεται σε αλλαγές στα δεδομένα παραγωγής.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Model Drift δεν επηρεάζει την απόδοση.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το Model Drift υποβαθμίζει την απόδοση με την πάροδο του χρόνου."
+  },
+  {
+    "question": "Η Retraining ενημερώνει το μοντέλο με νέα δεδομένα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Model Serving παρέχει predictions σε πραγματικό χρόνο.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Batch Inference επεξεργάζεται πολλά αιτήματα μαζί.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Real-time Inference δεν παρέχει άμεσες προβλέψεις.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το Real-time Inference παρέχει άμεσες προβλέψεις."
+  },
+  {
+    "question": "Τα RESTful APIs χρησιμοποιούνται για πρόσβαση σε μοντέλα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Docker containerizes εφαρμογές για εύκολο deployment.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Kubernetes ορχηστρώνει containers σε κλίμακα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το TensorFlow Serving δεν χρησιμοποιείται για model serving.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το TensorFlow Serving χρησιμοποιείται για serving TensorFlow μοντέλων."
+  },
+  {
+    "question": "Το Model Compression μειώνει το μέγεθος μοντέλων.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Quantization μειώνει την ακρίβεια αριθμών για ταχύτερη εκτέλεση.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Pruning αφαιρεί περιττές συνδέσεις από νευρωνικά δίκτυα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Knowledge Distillation μεταφέρει γνώση από μεγάλο σε μικρό μοντέλο.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η Latency αναφέρεται στον χρόνο απόκρισης του μοντέλου.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Throughput δεν μετρά αιτήματα ανά δευτερόλεπτο.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το Throughput μετρά πόσα αιτήματα μπορεί να χειριστεί το σύστημα ανά δευτερόλεπτο."
+  },
+  {
+    "question": "Η Scalability επιτρέπει στο σύστημα να χειρίζεται αυξημένο φορτίο.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Load Balancing διανέμει αιτήματα σε πολλαπλούς servers.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η Fault Tolerance διασφαλίζει λειτουργία σε περίπτωση σφαλμάτων.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Logging καταγράφει γεγονότα και σφάλματα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Η Security στα συστήματα ΤΝ δεν είναι σημαντική.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Η Security είναι κρίσιμη για προστασία από επιθέσεις."
+  },
+  {
+    "question": "Το Model Explainability βοηθά στην κατανόηση αποφάσεων.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Τα SHAP values εξηγούν συνεισφορές χαρακτηριστικών.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το LIME δεν παρέχει τοπικές εξηγήσεις.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το LIME (Local Interpretable Model-agnostic Explanations) παρέχει τοπικές εξηγήσεις."
+  },
+  {
+    "question": "Το Cost Management βελτιστοποιεί το κόστος υποδομής.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Auto-scaling προσαρμόζει αυτόματα τους πόρους.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Data Governance διασφαλίζει σωστή χρήση δεδομένων.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Compliance διασφαλίζει συμμόρφωση με κανονισμούς.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Documentation δεν είναι σημαντικό για συστήματα ΤΝ.",
+    "answer": false,
+    "chapter_number": 15,
+    "right_answer": "Το Documentation είναι κρίσιμο για συντήρηση και κατανόηση του συστήματος."
+  },
+  {
+    "question": "Η Collaboration μεταξύ ομάδων βελτιώνει την ανάπτυξη ΤΝ.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Experiment Tracking παρακολουθεί πειράματα και αποτελέσματα.",
+    "answer": true,
+    "chapter_number": 15
+  },
+  {
+    "question": "Το Model Interpretability είναι σημαντικό για εμπιστοσύνη στην ΤΝ.",
+    "answer": true,
+    "chapter_number": 15
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "question": "Η Επεξεργασία Φυσικής Γλώσσας (NLP) επιτρέπει στους υπολογιστές να κατανοούν και να παράγουν ανθρώπινη γλώσσα.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Tokenization ενώνει λέξεις σε μεγαλύτερες ενότητες.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το Tokenization διαιρεί κείμενο σε μικρότερες μονάδες (tokens)."
+  },
+  {
+    "question": "Το Part-of-Speech Tagging αναθέτει γραμματικούς ρόλους σε λέξεις.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Named Entity Recognition εντοπίζει μόνο ονόματα ανθρώπων.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το NER εντοπίζει οντότητες όπως ονόματα, τοποθεσίες, οργανισμούς κ.α."
+  },
+  {
+    "question": "Τα Transformers αποτελούν σύγχρονη αρχιτεκτονική για NLP.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Attention Mechanism δεν επιτρέπει εστίαση σε σημαντικά μέρη του κειμένου.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το Attention Mechanism επιτρέπει στα μοντέλα να εστιάζουν σε σημαντικά μέρη του κειμένου."
+  },
+  {
+    "question": "Το BERT είναι ένα Language Model που αναπτύχθηκε από την Google.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το GPT είναι ένα μοντέλο που εξειδικεύεται μόνο στην ανάλυση εικόνων.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το GPT (Generative Pre-trained Transformer) παράγει κείμενο."
+  },
+  {
+    "question": "Τα Language Models εκπαιδεύονται σε μεγάλα σώματα κειμένου.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Fine-tuning εκπαιδεύει μοντέλα από μηδενική βάση.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το Fine-tuning προσαρμόζει προεκπαιδευμένα μοντέλα σε συγκεκριμένες εργασίες."
+  },
+  {
+    "question": "Η Ανάλυση Συναισθήματος χρησιμοποιεί NLP για να προσδιορίσει το συναισθηματικό τόνο κειμένων.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Η Μηχανική Μετάφραση δεν χρησιμοποιεί ΤΝ.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Η Μηχανική Μετάφραση χρησιμοποιεί ΤΝ για αυτόματη μετάφραση κειμένων."
+  },
+  {
+    "question": "Το Word Embedding αναπαριστά λέξεις σε διανυσματικό χώρο.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Word2Vec είναι τεχνική για δημιουργία word embeddings.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το GloVe δεν χρησιμοποιείται για word representations.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το GloVe (Global Vectors) χρησιμοποιείται για word representations."
+  },
+  {
+    "question": "Το Lemmatization μετατρέπει λέξεις στη βασική τους μορφή.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Stemming είναι πιο ακριβές από το Lemmatization.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το Stemming είναι απλούστερο και λιγότερο ακριβές από το Lemmatization."
+  },
+  {
+    "question": "Τα Stop Words αφαιρούνται συχνά από την επεξεργασία κειμένου.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το TF-IDF μετρά τη σημαντικότητα λέξεων σε έγγραφο.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Bag-of-Words διατηρεί τη σειρά των λέξεων.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το Bag-of-Words δεν διατηρεί τη σειρά των λέξεων."
+  },
+  {
+    "question": "Το N-gram μοντελοποιεί ακολουθίες n λέξεων.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Η Coreference Resolution εντοπίζει αναφορές στην ίδια οντότητα.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Η Dependency Parsing αναλύει συντακτικές σχέσεις μεταξύ λέξεων.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Question Answering δεν χρησιμοποιεί NLP.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το Question Answering χρησιμοποιεί NLP για απάντηση ερωτήσεων."
+  },
+  {
+    "question": "Το Text Summarization δημιουργεί συνοπτικές εκδοχές κειμένων.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Extractive Summarization επιλέγει σημαντικές προτάσεις από το αρχικό κείμενο.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Abstractive Summarization αντιγράφει προτάσεις από το πρωτότυπο.",
+    "answer": false,
+    "chapter_number": 7,
+    "right_answer": "Το Abstractive Summarization παράγει νέες προτάσεις που αποδίδουν το νόημα."
+  },
+  {
+    "question": "Το Information Extraction εξάγει δομημένες πληροφορίες από κείμενο.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Το Relation Extraction εντοπίζει σχέσεις μεταξύ οντοτήτων.",
+    "answer": true,
+    "chapter_number": 7
+  },
+  {
+    "question": "Τα Pre-trained Language Models όπως το GPT-3 περιέχουν δισεκατομμύρια παραμέτρους.",
+    "answer": true,
+    "chapter_number": 7
+  }
+]

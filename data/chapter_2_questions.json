@@ -1,0 +1,220 @@
+[
+  {
+    "question": "Το Internet of Things (IoT) αναφέρεται σε δίκτυα συνδεδεμένων συσκευών που ανταλλάσσουν δεδομένα.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Τα IoT συστήματα περιλαμβάνουν μόνο αισθητήρες.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Τα IoT συστήματα περιλαμβάνουν αισθητήρες, δίκτυα και cloud υπολογιστική."
+  },
+  {
+    "question": "Η ΤΝ μπορεί να βελτιώσει την ασφάλεια του IoT με ανίχνευση ανωμαλιών.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Τα IoT devices χρησιμοποιούνται μόνο σε βιομηχανικό περιβάλλον.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Τα IoT devices χρησιμοποιούνται σε smart homes, βιομηχανία, υγεία και πολλούς άλλους τομείς."
+  },
+  {
+    "question": "Η ΤΝ χρησιμοποιείται για πρόβλεψη συντήρησης σε IoT συστήματα.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το Blockchain είναι μια κεντρικοποιημένη βάση δεδομένων που ελέγχεται από μία οντότητα.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Το Blockchain είναι αποκεντρωμένη τεχνολογία κατανεμημένου καθολικού."
+  },
+  {
+    "question": "Τα Smart Contracts εκτελούνται αυτόματα όταν πληρούνται προκαθορισμένες συνθήκες.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το Blockchain δεν χρησιμοποιεί κρυπτογραφία.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Το Blockchain χρησιμοποιεί κρυπτογραφία για ασφάλεια."
+  },
+  {
+    "question": "Η ΤΝ μπορεί να βελτιώσει την αποδοτικότητα του Blockchain.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το Blockchain χρησιμοποιείται μόνο για κρυπτονομίσματα.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Το Blockchain έχει πολλές εφαρμογές πέρα από κρυπτονομίσματα, όπως supply chain, smart contracts κ.α."
+  },
+  {
+    "question": "Το Cloud Computing παρέχει υπολογιστικούς πόρους μέσω του διαδικτύου.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το IaaS σημαίνει Intelligence as a Service.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Το IaaS σημαίνει Infrastructure as a Service."
+  },
+  {
+    "question": "Το Platform as a Service (PaaS) παρέχει πλατφόρμα ανάπτυξης.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το Software as a Service (SaaS) απαιτεί τοπική εγκατάσταση λογισμικού.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Το SaaS παρέχει έτοιμο λογισμικό μέσω cloud χωρίς τοπική εγκατάσταση."
+  },
+  {
+    "question": "Το Edge Computing επεξεργάζεται δεδομένα κοντά στην πηγή τους.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Η Fog Computing είναι το ίδιο με το Cloud Computing.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Η Fog Computing είναι ενδιάμεση επίπεδο μεταξύ Edge και Cloud."
+  },
+  {
+    "question": "Η Βιομηχανία 4.0 αναφέρεται στη χρήση ατμομηχανών στη βιομηχανία.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Η Βιομηχανία 4.0 αναφέρεται στην 4η βιομηχανική επανάσταση με IoT, ΤΝ και αυτοματοποίηση."
+  },
+  {
+    "question": "Τα Cyber-Physical Systems συνδυάζουν φυσικές και υπολογιστικές διεργασίες.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Η Additive Manufacturing δεν έχει σχέση με την 3D εκτύπωση.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Η Additive Manufacturing είναι γνωστή και ως 3D printing."
+  },
+  {
+    "question": "Η Digital Twin τεχνολογία δημιουργεί φυσικά αντίγραφα ψηφιακών αντικειμένων.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Η Digital Twin δημιουργεί ψηφιακές αναπαραστάσεις φυσικών αντικειμένων."
+  },
+  {
+    "question": "Οι Έξυπνες Πόλεις (Smart Cities) δεν χρησιμοποιούν ΤΝ.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Οι Smart Cities χρησιμοποιούν ΤΝ για βελτιστοποίηση κυκλοφορίας και διαχείριση ενέργειας."
+  },
+  {
+    "question": "Η ΤΝ χρησιμοποιείται για πρόβλεψη εγκληματικότητας.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Η ΤΝ δεν χρησιμοποιείται για διαχείριση αποβλήτων.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Η ΤΝ χρησιμοποιείται για διαχείριση αποβλήτων σε έξυπνες πόλεις."
+  },
+  {
+    "question": "Η Πρόβλεψη Συντήρησης (Predictive Maintenance) δεν προβλέπει αστοχίες εξοπλισμού.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Η Predictive Maintenance προβλέπει αστοχίες εξοπλισμού πριν συμβούν."
+  },
+  {
+    "question": "Το Industrial IoT (IIoT) αναφέρεται στη χρήση IoT στη βιομηχανία.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Τα M2M (Machine-to-Machine) συστήματα δεν επιτρέπουν επικοινωνία μεταξύ συσκευών.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Τα M2M συστήματα επιτρέπουν άμεση επικοινωνία μεταξύ συσκευών χωρίς ανθρώπινη παρέμβαση."
+  },
+  {
+    "question": "Οι αισθητήρες IoT συλλέγουν δεδομένα από το φυσικό περιβάλλον.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το MQTT είναι πρωτόκολλο επικοινωνίας για IoT.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το 5G δεν επηρεάζει την ανάπτυξη του IoT.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Το 5G επιταχύνει την ανάπτυξη του IoT με χαμηλή καθυστέρηση και υψηλή ταχύτητα."
+  },
+  {
+    "question": "Η ασφάλεια είναι κρίσιμη πρόκληση για τα IoT συστήματα.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το Edge AI συνδυάζει Edge Computing με Τεχνητή Νοημοσύνη.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Τα Smart Sensors έχουν ενσωματωμένη επεξεργαστική ικανότητα.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το Blockchain μπορεί να βελτιώσει την ασφάλεια και διαφάνεια στο IoT.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Η Βιομηχανία 4.0 δεν περιλαμβάνει αυτοματοποίηση.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Η Βιομηχανία 4.0 περιλαμβάνει εκτεταμένη αυτοματοποίηση και ψηφιοποίηση."
+  },
+  {
+    "question": "Τα Digital Twins χρησιμοποιούνται για προσομοίωση και βελτιστοποίηση διεργασιών.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το CoAP (Constrained Application Protocol) είναι πρωτόκολλο για IoT συσκευές.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Η Augmented Reality (AR) δεν έχει εφαρμογές στη Βιομηχανία 4.0.",
+    "answer": false,
+    "chapter_number": 2,
+    "right_answer": "Η AR χρησιμοποιείται για εκπαίδευση, συντήρηση και οπτικοποίηση στη Βιομηχανία 4.0."
+  },
+  {
+    "question": "Τα Wearable IoT devices παρακολουθούν υγεία και δραστηριότητες.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Η διαλειτουργικότητα είναι πρόκληση στα IoT οικοσυστήματα.",
+    "answer": true,
+    "chapter_number": 2
+  },
+  {
+    "question": "Το Distributed Ledger Technology (DLT) είναι η τεχνολογία πίσω από το Blockchain.",
+    "answer": true,
+    "chapter_number": 2
+  }
+]
