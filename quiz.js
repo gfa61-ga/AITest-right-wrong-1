@@ -132,7 +132,7 @@ submitBtn.onclick = () => {
       userAnswerText = userAnswer ? 'Σωστό' : 'Λάθος';
       if (isCorrect) {
         resultClass = 'correct';
-        correctInfo = '✓';
+        correctInfo = correctAnswer==true ?'✓' : q.right_answer;
         score++;
       } else {
         resultClass = 'incorrect';
