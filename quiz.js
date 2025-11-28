@@ -108,7 +108,7 @@ function updateProgress() {
 
 submitBtn.onclick = () => {
   let score = 0;
-  let tableHtml = '<table><thead><tr><th>#</th><th>Ερώτηση</th><th>Κεφ.</th><th>Απάντηση</th><th>Σωστή</th></tr></thead><tbody>';
+  let tableHtml = '<table><thead><tr><th>#</th><th>Ερώτηση</th><th>Κεφ.</th><th>Η απάντηση σας </th><th>Σωστή απάντηση</th></tr></thead><tbody>';
   let cardsHtml = '<div class="results-card-view">';
 
   questions.forEach((q, i) => {
