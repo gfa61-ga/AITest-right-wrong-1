@@ -108,8 +108,8 @@ function updateProgress() {
 
 submitBtn.onclick = () => {
   let score = 0;
-  let html = '<h2>📊 Αποτελέσματα</h2>';
-  html += '<table><thead><tr><th>#</th><th>Ερώτηση</th><th>Κεφ.</th><th>Απάντησή σας</th><th>Σωστή απάντηση </th></tr></thead><tbody>';
+  let tableHtml = '<table><thead><tr><th>#</th><th>Ερώτηση</th><th>Κεφ.</th><th>Απάντηση</th><th>Σωστή</th></tr></thead><tbody>';
+  let cardsHtml = '<div class="results-card-view">';
 
   questions.forEach((q, i) => {
     const selected = document.querySelector(`input[name='q${i}']:checked`);
@@ -142,12 +142,40 @@ submitBtn.onclick = () => {
     }
 
     const chapter = q.chapter || '—';
-    html += `<tr><td>${i + 1}</td><td>${q.question}</td><td>${chapter}</td><td class="${resultClass}">${userAnswerText}</td><td>${correctInfo}</td></tr>`;
+
+    // Table HTML
+    tableHtml += `<tr><td>${i + 1}</td><td>${q.question}</td><td>${chapter}</td><td class="${resultClass}">${userAnswerText}</td><td>${correctInfo}</td></tr>`;
+
+    // Card HTML
+    cardsHtml += `
+      <div class="result-card">
+        <div class="result-card-header">
+          <span class="result-card-num">#${i + 1}</span>
+          <span class="result-card-chapter">Κεφ. ${chapter}</span>
+        </div>
+        <div class="result-card-question">${q.question}</div>
+        <div class="result-card-row">
+          <span class="result-card-label">Η απάντηση σας:</span>
+          <span class="result-card-value ${resultClass}">${userAnswerText}</span>
+        </div>
+        <div class="result-card-row">
+          <span class="result-card-label">Σωστή απάντηση:</span>
+          <span class="result-card-value">${correctInfo.replace(/<br>/g, ' - ').replace(/<em>/g, '').replace(/<\/em>/g, '')}</span>
+        </div>
+      </div>
+    `;
   });
 
-  html += '</tbody></table>';
+  tableHtml += '</tbody></table>';
+  cardsHtml += '</div>';
+
   const percentage = Math.round((score / questions.length) * 100);
-  html = `<div class="score-display">Σκορ: ${score}/${questions.length} (${percentage}%)</div>` + html;
+  const scoreDisplay = `<div class="score-display">Σκορ: ${score}/${questions.length} (${percentage}%)</div>`;
+
+  let html = '<h2>📊 Αποτελέσματα</h2>';
+  html += scoreDisplay;
+  html += '<div class="results-table-wrapper">' + tableHtml + '</div>';
+  html += cardsHtml;
 
   results.innerHTML = html;
   results.classList.remove('hidden');
